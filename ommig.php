@@ -72,7 +72,7 @@
             Lite om mig
           </h1>
           <P>
-            Lucas Schuber, 28 år gammal. Jag är en ambitiös och kreativ person med en vi-löser-det-attityd som aldrig ryggar för nya utmaningar.  Är en lagspelare sedan barnsben, självorganiserad i mina uppgifter och mycket noggran med mina uppdrag. Sedan länge har jag arbetat kreativt med film och foto, målat och illustrerat. I min utbildning har det varit fokus på att utveckla mobila tjänster, responsiva webbplatser och grafiska kommunikationslösningar med stor vikt på interaktiondesign och användarvänlighet.
+            Lucas Schuber, 29 år gammal. Jag är en ambitiös och kreativ person med en vi-löser-det-attityd som aldrig ryggar för nya utmaningar.  Är en lagspelare sedan barnsben, självorganiserad i mina uppgifter och mycket noggran med mina uppdrag. Sedan länge har jag arbetat kreativt med film och foto, målat och illustrerat. I min utbildning har det varit fokus på att utveckla mobila tjänster, responsiva webbplatser och grafiska kommunikationslösningar med stor vikt på interaktiondesign och användarvänlighet.
 
             <br><br>
             <strong>De här programmen behärskar jag:</strong>

@@ -23,7 +23,7 @@
             </div>
             <div class="card-text info col-lg-12">
               <h3>
-                <i class="fas fa-phone-alt mr-2 infoicon" style="font-size:20px;"></i> 0734 34-32-48
+                <i class="fas fa-phone-alt mr-2 infoicon" style="font-size:20px;"></i> +4673-434 32 48
               </h3>
             </div>
             <div class="card-text col-lg-12 mt-5">

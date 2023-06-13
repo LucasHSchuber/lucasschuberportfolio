@@ -8,18 +8,18 @@
   <title>Hem</title>
   <!-- faveicon -->
   <?php
-    require_once 'assets/includes/faveicon.php';
-   ?>
-    <!--Bootstrap Core CSS -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <!--Font-Awesome Core CSS -->
-    <link rel="stylesheet" href="assets/css/all.min.css">
-    <!--General styles -->
-    <link rel="stylesheet" href="assets/css/nycss.css">
-    <!--Google fonts -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Playfair+Display&family=Arimo:wght@400;500&family=Raleway:wght@300&family=Montserrat&display=swap" rel="stylesheet">
-    <!-- Favicon
+  require_once 'assets/includes/faveicon.php';
+  ?>
+  <!--Bootstrap Core CSS -->
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <!--Font-Awesome Core CSS -->
+  <link rel="stylesheet" href="assets/css/all.min.css">
+  <!--General styles -->
+  <link rel="stylesheet" href="assets/css/nycss.css">
+  <!--Google fonts -->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Playfair+Display&family=Arimo:wght@400;500&family=Raleway:wght@300&family=Montserrat&display=swap" rel="stylesheet">
+  <!-- Favicon
   <link rel="shortcut icon" href="assets/images/favicobanan.ico" type="image/x-icon">
  -->
 </head>
@@ -46,24 +46,24 @@
 
     <?php
     require_once 'assets/includes/fixednav.php';
-   ?>
+    ?>
 
 
   </header>
   <main>
 
-    <! ---<div class="alert fixed-top alert-dismissible fade show" role="alert">
-          <strong>Webbplatsen är under arbete</strong> - från den 13/6 reviderar jag portfolio-sidorna vilket innebär att responsiviten på dessa sidor kommer att påverkas. 
-          <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
-     </div> --->
-    
+    <!-- <div class="alert fixed-top alert-dismissible fade show" role="alert">
+      <strong>Webbplatsen är under arbete</strong> - från den 13/6 reviderar jag portfolio-sidorna vilket innebär att responsiviten på dessa sidor kommer att påverkas.
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div> -->
+
     <div class="wrapper">
 
 
       <div class="title">
-        
+
         <h1>
           PORTFOLIO
         </h1>
@@ -223,7 +223,7 @@
 
     <?php
     require_once 'assets/includes/footer.php';
-   ?>
+    ?>
 
   </footer>
   <script>

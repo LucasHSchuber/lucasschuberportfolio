@@ -1,4 +1,3 @@
-
 /*------------ overall --------------*/
 
 html {
@@ -9,6 +8,7 @@ html {
 
 footer {
   background-color: #BBCAC3;
+  height: 15em;
 }
 
 main {
@@ -17,10 +17,10 @@ main {
 
 /*------ alert -----*/
 
-.alert{
-  z-index:1;
-  margin-top:5em;
-  text-align:center;
+.alert {
+  z-index: 1;
+  margin-top: 5em;
+  text-align: center;
   background-color: #FFF3CD;
   color: #908152;
 }
@@ -76,10 +76,11 @@ main {
 }
 
 .nav-link {
-  font-size: 16px;
+  font-size: 15px;
   transition: all .4s ease-in-out;
+  /* font-family: 'Darker Grotesque', sans-serif; */
   font-family: 'Lexend Mega', sans-serif;
-  font-weight: 700;
+  font-weight: 500;
   color: black;
   outline: none;
 }
@@ -259,7 +260,7 @@ main {
   width: 50%;
   text-align: center;
   font-family: 'Frank Ruhl Libre', serif;
-  font-size: 30px:!important
+  font-size: 30px !important;
 }
 
 /*---------------  footer ----------------*/
@@ -268,12 +269,11 @@ main {
   height: 6em;
   text-align: center;
   color: #35363a;
-  font-style: ;
- font-family: 'Frank Ruhl Libre', serif;
+  font-family: 'Frank Ruhl Libre', serif;
   font-size: 18px;
   padding: 0em 10em;
   padding-top: 2.5em;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .testux {
@@ -361,14 +361,15 @@ main {
 .wrapper {
   padding: 0em 10em 5em 10em;
 }
+
 .wrapper-index {
   padding: 0em 10em 0em 10em;
 }
 
 .wrapper-portfolio p {
   font-family: 'Frank Ruhl Libre', serif;
-  !important font-size: 15px;
-  !important
+  font-size: 15px;
+
 }
 
 
@@ -410,9 +411,9 @@ main {
   background-color: rgba(255, 255, 255, 0.95);
 }
 
- .modal-img {
-   padding-top: 1.5em;
-  }
+.modal-img {
+  padding-top: 1.5em;
+}
 
 .infoicon {
   background: #35363A;
@@ -468,133 +469,171 @@ main {
   .text1 {
     text-align: center;
   }
+
   .box1 h2 {
     font-size: 35px;
   }
+
   .ommig {
     margin-top: 5em;
     text-align: center;
     margin: auto;
     margin-bottom: 0.5em;
   }
+
   .ommig h1 {
     font-size: 30px;
     text-align: center;
     margin: auto;
     visibility: hidden;
   }
+
   #kompetens {
     margin-top: 2em;
     text-align: center;
   }
+
   .navbar-collapse {
     text-align: center;
     padding: 2.5em 0em;
   }
+
   .navbar {
     z-index: 1;
   }
+
   .nav-item a {
     font-size: 20px;
   }
+
   .title {
     margin: 8em 0em 4em 0em;
   }
+
   .title h1 {
     text-align: center;
     font-size: 45px;
   }
+
   .title h5 {
     text-align: center;
     font-size: 18px;
   }
+
   .title-minkonst h1 {
     text-align: center;
     font-size: 45px;
   }
+
   .title-minkonst h5 {
     text-align: center;
     font-size: 18px;
   }
+
   .dropdown-menu {
     text-align: center;
   }
+
   .btn-ommig {
     margin: auto;
     margin-top: 3em;
   }
-  .videolink{
+
+  .videolink {
     text-align: center;
-    margin-bottom:2em;
+    margin-bottom: 2em;
   }
+
   .fot {
     padding: 3em 3em;
     font-weight: 500;
   }
+
   .fa-home {
     margin-left: .5em;
   }
-  .content h1,p{
+
+  .content h1,
+  p {
     text-align: center;
   }
+
   .dropdown-menu {
-    border:none;
+    border: none;
   }
+
   .process h1 {
     margin-top: 1em;
     text-align: center;
   }
+
   .modal-box {
     padding: 0em 1em;
   }
-  .info h2,h3 {
+
+  .info h2,
+  h3 {
     text-align: center;
   }
+
   .modal-img {
     padding-top: 3em;
   }
+
   .socialicons {
     font-size: 16px;
     background: #DFDEDE;
     padding: 20px;
     border-radius: 50%;
   }
+
   .wrapper {
     padding: 0em 2em 2em 2em;
   }
+
   .wrapper-index {
-  padding: 0em 2em 0em 2em;
-}
+    padding: 0em 2em 0em 2em;
+  }
+
   .kompetens-box {
     padding-top: 0em;
   }
+
   .interests {
     padding-top: 4em;
   }
-  .navbar{
+
+  .navbar {
     border-bottom: 5px solid white;
   }
+
   .index-portfolio {
     margin: 7em 2em 3em 3em;
   }
-  .aboutgoal{
+
+  .aboutgoal {
     text-align: center;
     margin-top: 3em;
   }
-  .order{
-  display:flex;
-  flex-direction:column;
-}
-  .order-item1{
-    order:1;
+
+  .order {
+    display: flex;
+    flex-direction: column;
   }
-   .order-item2{
-    order:2;
+
+  .order-item1 {
+    order: 1;
   }
-  .portfolio-card{
+
+  .order-item2 {
+    order: 2;
+  }
+
+  .portfolio-card {
     margin-bottom: 2em;
   }
-  .projekt{
+
+  .projekt {
     margin-bottom: 3em;
   }
 }
@@ -605,83 +644,106 @@ main {
     margin-right: 0em;
     margin-top: .5em;
   }
+
   .househome {
     width: 2em;
     margin-left: 1.2em;
   }
+
   .nav-item {
     padding: .5em 0em;
   }
-  .box1{
+
+  .box1 {
     margin-top: 10em;
   }
-  .box1 h2{
-  font-weight: 600;
+
+  .box1 h2 {
+    font-weight: 600;
     font-size: 28px;
   }
-  .box2{
+
+  .box2 {
     margin-bottom: 2em;
   }
-  .box2 h4{
-   font-size: 18px;
-   line-height: 1.4em;
+
+  .box2 h4 {
+    font-size: 18px;
+    line-height: 1.4em;
   }
+
   .kontakt-text {
     font-size: 25px;
   }
+
   .wrapper {
     padding: 0em 1.5em 2em 1.5em;
   }
-    .wrapper-index {
-  padding: 0em 1.5em 0em 1.5em;
-}
+
+  .wrapper-index {
+    padding: 0em 1.5em 0em 1.5em;
+  }
+
   .wrapper-ommig {
     text-align: center;
     margin: auto;
   }
+
   .fot {
     font-size: 15px;
     height: 8em;
     padding-top: 2.5em;
     font-weight: 500;
   }
+
   .nav-link {
     padding: 5px;
   }
+
   .index-portfolio {
     text-align: center;
     margin: 7em 0em 0em 0em;
   }
+
   .index-portfolio h1 {
     text-align: center;
     font-size: 40px;
   }
+
   .insta-box {
     text-align: center;
     margin: 4.5em 0em 2em 0em;
   }
+
   .insta-box h1 {
     font-size: 40px;
   }
+
   .process h1 {
     font-size: 35px;
   }
+
   .backbtn {
     display: none;
   }
+
   .title-minkonst {
     margin: 8em 0em 2em 0em;
   }
+
   .info h3 {
     font-size: 13px;
   }
-   .modal-img {
+
+  .modal-img {
     padding-top: 2em;
   }
-  .alert{
-  margin-top:4.5em;
+
+  .alert {
+    margin-top: 4.5em;
   }
+
   .testux {
-  margin-top: 3em;
+    margin-top: 3em;
   }
 }

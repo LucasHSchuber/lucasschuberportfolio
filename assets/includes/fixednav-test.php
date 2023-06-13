@@ -9,20 +9,20 @@
         <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              portfolio
+              Portfolio
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown" id="dropdown-menu">
-              <li id="dropdown-link"><a class="dropdown-item " href="portfolio.php">alla projekt</a></li>
+              <li id="dropdown-link"><a class="dropdown-item " href="portfolio.php">Alla projekt</a></li>
                <li id=""><hr class="dropdown-divider" style="width: 13em; margin:auto; opacity: 0.4;"></li>
-              <li id="dropdown-link"><a class="dropdown-item " href="skol.php">skolprojekt</a></li>
-              <li id="dropdown-link"><a class="dropdown-item " href="privat.php">privata projekt</a></li>
+              <li id="dropdown-link"><a class="dropdown-item " href="skol.php">Skolprojekt</a></li>
+              <li id="dropdown-link"><a class="dropdown-item " href="privat.php">Privata projekt</a></li>
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="ommigtest.php">om mig</a>
+            <a class="nav-link" aria-current="page" href="ommigtest.php">Om mig</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="" data-toggle="modal" data-target=".bd-example-modal-lg">kontakt</a>
+            <a class="nav-link" href="" data-toggle="modal" data-target=".bd-example-modal-lg">Kontakt</a>
           </li>
         </ul>
       </div>  
