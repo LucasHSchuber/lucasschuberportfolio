@@ -60,7 +60,7 @@
     
     <div class="divider">
 
-      <div class="row container-fluid" style="margin:auto;padding:5em 6em 5em 6em;">
+      <div class="row container-fluid" style="margin:auto; padding:5em 6em 5em 6em;">
         <div class="container-fluid col-lg-6 col-sm-6  " style="text-align:center;">
           <h1>
             Letar du efter min portfolio?
@@ -85,7 +85,7 @@
     
   <div class="uxtest" style="background-image: url('assets/images/ux2.png">
 
-    <div class="row uxbox container-fluid" style="margin:auto;padding:0em 6em 4em 6em;">
+    <div class="row uxbox container-fluid" style="margin:auto;padding:0 6em 4em 6em;">
       <div class="container-fluid col-lg-8 col-sm-8">
         <h1 class="pb-2">
           Vill du se lite av det jag har skapat?

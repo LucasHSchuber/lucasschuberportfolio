@@ -5,21 +5,21 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Skolprojekt</title>
+  <title>Yrkesprojekt</title>
   <!-- faveicon -->
   <?php
-    require_once 'assets/includes/faveicon.php';
-   ?>
-    <!--Bootstrap Core CSS -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <!--Font-Awesome Core CSS -->
-    <link rel="stylesheet" href="assets/css/all.min.css">
-    <!--General styles -->
-    <link rel="stylesheet" href="assets/css/nycss.css">
-    <!--Google fonts -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Playfair+Display&family=Arimo:wght@400;500&family=Raleway:wght@300&family=Montserrat&display=swap" rel="stylesheet">
-    <!-- Favicon
+  require_once 'assets/includes/faveicon.php';
+  ?>
+  <!--Bootstrap Core CSS -->
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <!--Font-Awesome Core CSS -->
+  <link rel="stylesheet" href="assets/css/all.min.css">
+  <!--General styles -->
+  <link rel="stylesheet" href="assets/css/nycss.css">
+  <!--Google fonts -->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Playfair+Display&family=Arimo:wght@400;500&family=Raleway:wght@300&family=Montserrat&display=swap" rel="stylesheet">
+  <!-- Favicon
   <link rel="shortcut icon" href="assets/images/favicobanan.ico" type="image/x-icon">
  -->
 </head>
@@ -46,7 +46,7 @@
 
     <?php
     require_once 'assets/includes/fixednav.php';
-   ?>
+    ?>
 
 
   </header>
@@ -56,8 +56,8 @@
 
 
       <?php
-     require_once 'assets/includes/skolprojekt.php';
-   ?>
+      require_once 'assets/includes/yrkesprojekt.php';
+      ?>
 
 
     </div>
@@ -73,7 +73,7 @@
 
     <?php
     require_once 'assets/includes/footer.php';
-   ?>
+    ?>
 
   </footer>
   <script>

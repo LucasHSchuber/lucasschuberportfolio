@@ -50,7 +50,6 @@
   </header>
   <main class="wrapper-index">
 
-
     <div class="container-fluid box1">
       <h2>
         LUCAS SCHUBER
