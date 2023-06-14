@@ -22,7 +22,7 @@
         <P>
             Fotograferade för sociala medier och olika kampanjer. Några bilder presenteras här
         </P>
-        <a class="btn btn-lg mt-2" href="minkonst.php" role="button">Se arbetet</a>
+        <a class="btn btn-lg mt-2" href="foodorafoto.php" role="button">Se arbetet</a>
     </div>
 </div>
 
@@ -38,7 +38,7 @@
         <P>
             Jag skapade affischer till hemsidan och out-of-home advertising
         </P>
-        <a class="btn btn-lg mt-2" href="foto.php" role="button">Se arbetet</a>
+        <a class="btn btn-lg mt-2" href="foodoraaffisch.php" role="button">Se arbetet</a>
     </div>
     <div class="card container col-md-4 portfolio-card" style="width: 20rem;">
         <img src="assets/images/affisch1.png" class="card-img-top" alt="...">
