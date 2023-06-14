@@ -15,6 +15,7 @@
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown" id="dropdown-menu">
               <li id="dropdown-link"><a class="dropdown-item " href="portfolio.php">Alla projekt</a></li>
                <li id="dropdown-link"><hr class="dropdown-divider" style="width: 13em; margin:auto; opacity: 0.4;"></li>
+               <li id="dropdown-link"><a class="dropdown-item " href="yrke.php">Yrkesprojekt</a></li>
               <li id="dropdown-link"><a class="dropdown-item " href="skol.php">Skolprojekt</a></li>
               <li id="dropdown-link"><a class="dropdown-item " href="privat.php">Privata projekt</a></li>
             </ul>

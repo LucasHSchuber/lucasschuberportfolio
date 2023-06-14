@@ -9,10 +9,10 @@
 
 
 <div class="row py-5 container-fluid projekt">
-    <div class="card container col-md-4 portfolio-card" style="width: 20rem;">
+    <div class="card container col-lg-4 portfolio-card" style="width: 20rem;">
         <img src="assets/images/foodora_foto.png" class="card-img-top" alt="...">
     </div>
-    <div class="container col-md-7 text1">
+    <div class="container col-lg-7 text1">
         <h1>
             FOTOGRAFI
         </h1>
@@ -27,8 +27,7 @@
 </div>
 
 <div class="row py-5 container-fluid projekt">
-
-    <div class="container col-md-7 text1">
+    <div class="order-item2 container col-lg-7 text1">
         <h1>
             AFFISCHER OCH OOH
         </h1>
@@ -40,16 +39,16 @@
         </P>
         <a class="btn btn-lg mt-2" href="foodoraaffisch.php" role="button">Se arbetet</a>
     </div>
-    <div class="card container col-md-4 portfolio-card" style="width: 20rem;">
+    <div class="order-item1 card container col-lg-4 portfolio-card" style="width: 20rem;">
         <img src="assets/images/affisch1.png" class="card-img-top" alt="...">
     </div>
 </div>
 
 <div class="row py-5 container-fluid projekt">
-    <div class="card container col-md-4 portfolio-card" style="width: 20rem;">
+    <div class="card container col-lg-4 portfolio-card" style="width: 20rem;">
         <img src="assets/images/film.png" class="card-img-top" alt="...">
     </div>
-    <div class="container col-md-7 text1">
+    <div class="container col-lg-7 text1">
         <h1>
             FILMER
         </h1>
@@ -59,13 +58,12 @@
         <P>
             Jag har skrivit, skapat och redigerat filmer till leverantörsdagar, sociala medier och event för foodora market
         </P>
-        <a class="btn btn-lg mt-2" href="minkonst.php" role="button">Se arbetet</a>
+        <a class="btn btn-lg mt-2" href="foodorafilm.php" role="button">Se arbetet</a>
     </div>
 </div>
 
 <div class="row py-5 container-fluid projekt">
-
-    <div class="container col-md-7 text1">
+    <div class="order-item2 container col-lg-7 text1">
         <h1>
             GIF's
         </h1>
@@ -75,9 +73,9 @@
         <P>
             GIF's skapade i Adobe Photoshop till hemsidan
         </P>
-        <a class="btn btn-lg mt-2" href="foto.php" role="button">Se arbetet</a>
+        <a class="btn btn-lg mt-2" href="foodoragifs.php" role="button">Se arbetet</a>
     </div>
-    <div class="card container col-md-4 portfolio-card" style="width: 20rem;">
+    <div class="order-item1 card container col-lg-4 portfolio-card" style="width: 20rem;">
         <img src="assets/images/tekniska_problem-2.gif" class="card-img-top" alt="...">
     </div>
 </div>

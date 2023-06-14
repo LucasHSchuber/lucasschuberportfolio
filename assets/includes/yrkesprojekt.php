@@ -8,9 +8,8 @@
 </div>
 
 
-<div class="row py-5 container-fluid projekt">
-
-    <div class="container col-md-7 text1">
+<div class="row py-5 container-fluid projekt order">
+    <div class="order-item2 container col-lg-7 text1">
         <h1>
             FOODORA
         </h1>
@@ -22,8 +21,7 @@
         </P>
         <a class="btn btn-lg mt-2" href="foodora.php" role="button">Se projekt</a>
     </div>
-    <div class="card container col-md-4 portfolio-card" style="width: 20rem;">
+    <div class="order-item1 card container col-lg-4 portfolio-card" style="width: 20rem;">
         <img src="assets/images/foodoralogo1.png" class="card-img-top" alt="...">
     </div>
 </div>
-
