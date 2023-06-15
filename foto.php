@@ -64,6 +64,50 @@
           </h5>
       </div>
 
+      <div class="card-group row">
+        <div class="card col-sm-6">
+          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/klingas2.jpg" alt="Card image cap" style="border:3px solid black;">
+          <div class="card-body">
+            <h5 class="card-title">Bröllop</h5>
+          </div>
+        </div>
+        <div class="card col-sm-6">
+          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/klingas3.jpg" alt="Card image cap" style="border:3px solid black;">
+          <div class="card-body">
+            <h5 class="card-title">Bröllop</h5>
+          </div>
+        </div>
+      </div>
+
+      <div class="card-group row">
+        <div class="card col-sm-6">
+          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/klingas4.jpg" alt="Card image cap" style="border:3px solid black;">
+          <div class="card-body">
+            <h5 class="card-title">Bröllop</h5>
+          </div>
+        </div>
+        <div class="card col-sm-6">
+          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/klingas5.jpg" alt="Card image cap" style="border:3px solid black;">
+          <div class="card-body">
+            <h5 class="card-title">Bröllop</h5>
+          </div>
+        </div>
+      </div>
+
+      <div class="card-group row">
+        <div class="card col-sm-6">
+          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/klingas.jpg" alt="Card image cap" style="border:3px solid black;">
+          <div class="card-body">
+            <h5 class="card-title">Bröllop</h5>
+          </div>
+        </div>
+        <div class="card col-sm-6">
+          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/klingas6.jpg" alt="Card image cap" style="border:3px solid black;">
+          <div class="card-body">
+            <h5 class="card-title">Bröllop</h5>
+          </div>
+        </div>
+      </div>
 
       <div class="card-group row">
         <div class="card col-sm-6">
