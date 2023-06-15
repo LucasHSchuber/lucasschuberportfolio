@@ -20,27 +20,27 @@
       UX/UI design / Webbdesign / Webbutveckling
     </h5>
     <P>
-      En skoluppgift som gick ut på att skapa en liten webbplats där man kan boka och läsa mer om färdtjänst. 
+      En skoluppgift som gick ut på att skapa en liten webbplats där man kan boka och läsa mer om färdtjänst.
     </P>
     <a class="btn btn-lg mt-2" href="fardtjanst.php" role="button">Se arbetet</a>
   </div>
 </div>
 
-<div class="row py-5 container-fluid projekt order">
-  <div class="order-item2 container col-md-7 text1">
+<div class="row py-5 container-fluid projekt">
+  <div class="order-item2 container col-md-6 text1">
     <h1>
-      DIGITAL SMART LOCK
+      FLIM
     </h1>
     <h5>
-      UX/UI design
+      UX/UI design / Webbdesign / Webbutveckling
     </h5>
     <P>
-      Gjorde en etnografisk studie på ett smart-lås som jag sedan tog fram olika designförslag på.
+      En skoluppgift där en blog skulle skapas. Jag valde att göra en filmblogg där man kan skapa ett konto och lägga upp filmtips.
     </P>
-    <a class="btn btn-lg mt-2" href="smartlock.php" role="button">Se arbetet</a>
+    <a class="btn btn-lg mt-2" href="flim.php" role="button">Se arbetet</a>
   </div>
-  <div class="order-item1 card container col-md-4 portfolio-card" style="width: 20rem;">
-    <img src="assets/images/lock.png" class="card-img-top" alt="...">
+  <div class="order-item1 card container col-md-5 portfolio-card" style="width: 20rem;">
+    <img src="assets/images/flimindex.png" class="card-img-top" alt="...">
   </div>
 </div>
 
@@ -62,8 +62,6 @@
   </div>
 </div>
 
-
-
 <div class="row py-5 container-fluid projekt">
 
   <div class="order-item2 container col-md-7 text1">
@@ -82,6 +80,26 @@
     <img src="assets/images/start.png" class="card-img-top" alt="...">
   </div>
 </div>
+
+
+<div class="row py-5 container-fluid projekt">
+  <div class="order-item1 card container col-md-4 portfolio-card" style="width: 20rem;">
+    <img src="assets/images/lock.png" class="card-img-top" alt="...">
+  </div>
+  <div class="order-item2 container col-md-7 text1">
+    <h1>
+      DIGITAL SMART LOCK
+    </h1>
+    <h5>
+      UX/UI design
+    </h5>
+    <P>
+      Gjorde en etnografisk studie på ett smart-lås som jag sedan tog fram olika designförslag på.
+    </P>
+    <a class="btn btn-lg mt-2" href="smartlock.php" role="button">Se arbetet</a>
+  </div>
+</div>
+
 
 <!---
         <div class="row py-5 container-fluid projekt">

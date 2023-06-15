@@ -59,7 +59,7 @@
                         UX/UI design / grafisk design / produkt design 
                       </h5>
                       <P>
-                         Ett nyuppstartat företag som i framtiden ska producera THC-fritt CBD-snus. <br> Pågående projekt.
+                         Ett nyuppstartat företag som i framtiden ska producera blantbaserat snus.
                       </P>
                       <a class="btn btn-lg mt-2" href="cnus.php" role="button">Se arbetet</a>
                </div>

@@ -80,7 +80,7 @@
             <strong>OM</strong>
           </h4>
           <P>
-            <strong>Nordic cnus company </strong> bildades våren 2020 och är ett företag i uppstartningsprocessen som i framtiden ska sälja THC-fritt CBD-cnus. De frågade mig om jag ville skapa deras <strong> produktdesign och grafiska profil. </strong>            Deras målgrupp är främst subkulturer och de önskade dosor i en retro stil och ett tema med illustrationer i "ritad stil", utöver de gav de mig fria tyglar i det kreativa skapandet. Till sommaren 2021 planerar de att skapa en webbsida. Det
+            <strong>Nordic cnus company </strong> bildades våren 2020 och är ett företag i uppstartningsprocessen som i framtiden ska sälja blantbaserat snus. De frågade mig om jag ville skapa deras <strong> produktdesign och grafiska profil. </strong>            Deras målgrupp är främst subkulturer och de önskade dosor i en retro stil och ett tema med illustrationer i "ritad stil", utöver de gav de mig fria tyglar i det kreativa skapandet. Till sommaren 2021 planerar de att skapa en webbsida. Det
             grafiska är fortfarande i utvecklingsfasen.
           </P>
         </div>
