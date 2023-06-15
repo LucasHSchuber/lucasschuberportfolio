@@ -8,18 +8,18 @@
   <title>Fotografi</title>
   <!-- faveicon -->
   <?php
-    require_once 'assets/includes/faveicon.php';
-   ?>
-    <!--Bootstrap Core CSS -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <!--Font-Awesome Core CSS -->
-    <link rel="stylesheet" href="assets/css/all.min.css">
-    <!--General styles -->
-    <link rel="stylesheet" href="assets/css/nycss.css">
-    <!--Google fonts -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Playfair+Display&family=Arimo:wght@400;500&family=Raleway:wght@300&family=Montserrat&display=swap" rel="stylesheet">
-    <!-- Favicon
+  require_once 'assets/includes/faveicon.php';
+  ?>
+  <!--Bootstrap Core CSS -->
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <!--Font-Awesome Core CSS -->
+  <link rel="stylesheet" href="assets/css/all.min.css">
+  <!--General styles -->
+  <link rel="stylesheet" href="assets/css/nycss.css">
+  <!--Google fonts -->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Playfair+Display&family=Arimo:wght@400;500&family=Raleway:wght@300&family=Montserrat&display=swap" rel="stylesheet">
+  <!-- Favicon
   <link rel="shortcut icon" href="assets/images/favicobanan.ico" type="image/x-icon">
  -->
 </head>
@@ -46,7 +46,7 @@
 
     <?php
     require_once 'assets/includes/fixednav.php';
-   ?>
+    ?>
 
 
   </header>
@@ -59,15 +59,15 @@
       <div class="title-minkonst">
 
         <?php
-    require_once 'assets/includes/backbtn.php';
-   ?>
+        require_once 'assets/includes/backbtn.php';
+        ?>
 
-          <h1>
-            NORDIC CNUS COMPANY
-          </h1>
-          <h5>
-            UX/UI design / grafisk design / produkt design
-          </h5>
+        <h1>
+          NORDIC CNUS COMPANY
+        </h1>
+        <h5>
+          UX/UI design / grafisk design / produkt design
+        </h5>
       </div>
 
 
@@ -80,7 +80,7 @@
             <strong>OM</strong>
           </h4>
           <P>
-            <strong>Nordic cnus company </strong> bildades våren 2020 och är ett företag i uppstartningsprocessen som i framtiden ska sälja blantbaserat snus. De frågade mig om jag ville skapa deras <strong> produktdesign och grafiska profil. </strong>            Deras målgrupp är främst subkulturer och de önskade dosor i en retro stil och ett tema med illustrationer i "ritad stil", utöver de gav de mig fria tyglar i det kreativa skapandet. Till sommaren 2021 planerar de att skapa en webbsida. Det
+            <strong>Nordic cnus company </strong> bildades våren 2020 och är ett företag i uppstartningsprocessen som i framtiden ska sälja blantbaserat snus. De frågade mig om jag ville skapa deras <strong> produktdesign och grafiska profil. </strong> Deras målgrupp är främst subkulturer och de önskade dosor i en retro stil och ett tema med illustrationer i "ritad stil", utöver de gav de mig fria tyglar i det kreativa skapandet. Till sommaren 2021 planerar de att skapa en webbsida. Det
             grafiska är fortfarande i utvecklingsfasen.
           </P>
         </div>
@@ -156,7 +156,7 @@
 
     <?php
     require_once 'assets/includes/fixedbtn.php';
-   ?>
+    ?>
 
   </main>
   <footer>
@@ -164,7 +164,7 @@
 
     <?php
     require_once 'assets/includes/footer.php';
-   ?>
+    ?>
 
   </footer>
   <script>

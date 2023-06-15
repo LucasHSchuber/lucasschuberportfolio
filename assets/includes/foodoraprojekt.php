@@ -1,7 +1,8 @@
 <div class="title">
 
-    <a role="button" class="btn btn-lg backbtn mb-5" href="yrke.php" aria-pressed="true">Tillbaka</a>
-
+    <?php
+    require_once 'assets/includes/backbtn.php';
+    ?>
     <h1>
         FOODORA
     </h1>

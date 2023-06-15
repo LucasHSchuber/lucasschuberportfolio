@@ -53,8 +53,9 @@
 
             <div class="title-minkonst pb-5">
 
-                <a role="button" class="btn btn-lg backbtn mb-5" href="foodora.php" aria-pressed="true">Tillbaka</a>
-
+                <?php
+                require_once 'assets/includes/backbtn.php';
+                ?>
 
                 <h1>
                     FILM

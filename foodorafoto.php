@@ -8,19 +8,19 @@
   <title>Foodora foto</title>
   <!-- faveicon -->
   <?php
-    require_once 'assets/includes/faveicon.php';
-   ?>
-    <!--Bootstrap Core CSS -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <!--Font-Awesome Core CSS -->
-    <link rel="stylesheet" href="assets/css/all.min.css">
-    <!--General styles -->
-    <link rel="stylesheet" href="assets/css/nycss.css">
-    <!--Google fonts -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300&family=Playfair+Display&family=family=Frank+Ruhl+Libre:wght@300&Rajdhani:wght@300&family=Lexend+Mega&display=swap" rel="stylesheet">
+  require_once 'assets/includes/faveicon.php';
+  ?>
+  <!--Bootstrap Core CSS -->
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <!--Font-Awesome Core CSS -->
+  <link rel="stylesheet" href="assets/css/all.min.css">
+  <!--General styles -->
+  <link rel="stylesheet" href="assets/css/nycss.css">
+  <!--Google fonts -->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300&family=Playfair+Display&family=family=Frank+Ruhl+Libre:wght@300&Rajdhani:wght@300&family=Lexend+Mega&display=swap" rel="stylesheet">
 
-    <!-- Favicon
+  <!-- Favicon
   <link rel="shortcut icon" href="assets/images/favicobanan.ico" type="image/x-icon">
  -->
 </head>
@@ -43,7 +43,7 @@
 
     <?php
     require_once 'assets/includes/fixednav.php';
-   ?>
+    ?>
 
   </header>
 
@@ -53,15 +53,16 @@
 
       <div class="title-minkonst pb-5">
 
-      <a role="button" class="btn btn-lg backbtn mb-5" href="foodora.php" aria-pressed="true">Tillbaka</a>
- 
+        <?php
+        require_once 'assets/includes/backbtn.php';
+        ?>
 
-          <h1>
-            FOTOGRAFI
-          </h1>
-          <h5>
-            Fotografi
-          </h5>
+        <h1>
+          FOTOGRAFI
+        </h1>
+        <h5>
+          Fotografi
+        </h5>
       </div>
 
 
@@ -144,7 +145,7 @@
 
     <?php
     require_once 'assets/includes/fixedbtn.php';
-   ?>
+    ?>
 
   </main>
   <footer>
@@ -152,7 +153,7 @@
 
     <?php
     require_once 'assets/includes/footer.php';
-   ?>
+    ?>
 
   </footer>
 
