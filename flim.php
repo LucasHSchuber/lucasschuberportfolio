@@ -103,7 +103,7 @@
 
       <div class="order row py-5 container-fluid">
         <div class="order-item2 card container col-md-6 portfolio-card" style="width: 20rem;">
-          <img src="assets/images/flimfigma.png" class="card-img-top" alt="...">
+          <img src="assets/images/flimfigma.jpg" class="card-img-top" alt="...">
         </div>
         <div class="order-item1 container col-md-5 content align-self-center">
           <h3>
@@ -134,10 +134,10 @@
           </div>
         </div>
         <div class="card container col-md-6 portfolio-card" style="width: 20rem;">
-          <img src="assets/images/flimindex.png" class="card-img-top" style="margin-bottom:0.5em;" alt="...">
-          <img src="assets/images/flimfilm.png" class="card-img-top" style="margin-bottom:0.5em;"  alt="...">
-          <img src="assets/images/flimser.png" class="card-img-top" style="margin-bottom:0.5em;"  alt="...">
-          <img src="assets/images/flimdoc.png" class="card-img-top" style="margin-bottom:0.5em;" alt="...">
+          <img src="assets/images/flimindex.jpg" class="card-img-top" style="margin-bottom:0.5em;" alt="...">
+          <img src="assets/images/flimfilm.jpg" class="card-img-top" style="margin-bottom:0.5em;"  alt="...">
+          <img src="assets/images/flimser.jpg" class="card-img-top" style="margin-bottom:0.5em;"  alt="...">
+          <img src="assets/images/flimdoc.jpg" class="card-img-top" style="margin-bottom:0.5em;" alt="...">
 
         </div>
       </div>

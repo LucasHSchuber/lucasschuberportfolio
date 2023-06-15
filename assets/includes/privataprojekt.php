@@ -22,7 +22,7 @@
                     Grafisk design 
                   </h5>
                   <P>
-                     Linje konst, målningar och illustrationer som jag har skapat på min fritid.
+                  Linjekonst, målningar och illustrationer som jag har skapat på min fritid.
                   </P>
                   <a class="btn btn-lg mt-2" href="minkonst.php" role="button">Se arbetet</a>
            </div>

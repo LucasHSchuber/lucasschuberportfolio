@@ -103,8 +103,8 @@
 
       <div class="order row py-5 container-fluid">
         <div class="order-item2 card container col-md-6 portfolio-card" style="width: 20rem;">
-          <img src="assets/images/fardtjanstwebb.png" class="card-img-top" alt="...">
-          <img src="assets/images/fardtjanstmobil.png" class="card-img-top py-3" alt="...">
+          <img src="assets/images/fardtjanstwebb.jpg" class="card-img-top" alt="...">
+          <img src="assets/images/fardtjanstmobil.jpg" class="card-img-top py-3" alt="...">
         </div>
         <div class="order-item1 container col-md-5 content align-self-center">
           <h3>
@@ -137,7 +137,7 @@
           </div>
         </div>
         <div class="card container col-md-6 portfolio-card" style="width: 20rem;">
-          <img src="assets/images/fardtjanst.png" class="card-img-top" alt="...">
+          <img src="assets/images/fardtjanst.jpg" class="card-img-top" alt="...">
         </div>
       </div>
 

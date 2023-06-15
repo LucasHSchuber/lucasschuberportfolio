@@ -90,7 +90,7 @@
 
       <div class="row py-5 container-fluid projekt">
         <div class="order-item1 card container col-lg-5 portfolio-card" style="width: 20rem;">
-          <img src="assets/images/fardtjanst.png" class="card-img-top" alt="...">
+          <img src="assets/images/fardtjanst.jpg" class="card-img-top" alt="...">
         </div>
         <div class="order-item2 container col-lg-6 text1">
           <h1>
@@ -120,7 +120,7 @@
           <a class="btn btn-lg mt-2" href="flim.php" role="button">Se arbetet</a>
         </div>
         <div class="order-item1 card container col-lg-5 portfolio-card" style="width: 20rem;">
-          <img src="assets/images/flimindex.png" class="card-img-top" alt="...">
+          <img src="assets/images/flimindex.jpg" class="card-img-top" alt="...">
         </div>
       </div>
 
