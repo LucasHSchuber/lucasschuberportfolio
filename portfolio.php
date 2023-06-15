@@ -91,21 +91,22 @@
         </div>
       </div>
 
+
       <div class="row py-5 container-fluid projekt">
-        <div class="card container col-lg-4 portfolio-card" style="width: 20rem;">
-          <img src="assets/images/face.png" class="card-img-top" alt="...">
+        <div class="order-item1 card container col-md-5 portfolio-card" style="width: 20rem;">
+          <img src="assets/images/fardtjanst.png" class="card-img-top" alt="...">
         </div>
-        <div class="container col-lg-7 text1">
+        <div class="order-item2 container col-md-6 text1">
           <h1>
-            MIN KONST
+            BROMMA FÄRDTJÄNST
           </h1>
           <h5>
-            Grafisk design
+            UX/UI design / Webbdesign / Webbutveckling
           </h5>
           <P>
-            Linjekonst, målningar och illustrationer som jag har skapat på min fritid.
+            En skoluppgift som gick ut på att skapa en liten webbplats där man kan boka och läsa mer om färdtjänst.
           </P>
-          <a class="btn btn-lg mt-2" href="minkonst.php" role="button">Se arbetet</a>
+          <a class="btn btn-lg mt-2" href="fardtjanst.php" role="button">Se arbetet</a>
         </div>
       </div>
 
@@ -202,6 +203,25 @@
         </div>
         <div class="order-item1 card container col-lg-4 portfolio-card" style="width: 20rem;">
           <img src="assets/images/start.png" class="card-img-top" alt="...">
+        </div>
+      </div>
+
+
+      <div class="row py-5 container-fluid projekt">
+        <div class="card container col-lg-4 portfolio-card" style="width: 20rem;">
+          <img src="assets/images/face.png" class="card-img-top" alt="...">
+        </div>
+        <div class="container col-lg-7 text1">
+          <h1>
+            MIN KONST
+          </h1>
+          <h5>
+            Grafisk design
+          </h5>
+          <P>
+            Linjekonst, målningar och illustrationer som jag har skapat på min fritid.
+          </P>
+          <a class="btn btn-lg mt-2" href="minkonst.php" role="button">Se arbetet</a>
         </div>
       </div>
 

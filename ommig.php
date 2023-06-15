@@ -8,18 +8,18 @@
   <title>Om mig</title>
   <!-- faveicon -->
   <?php
-    require_once 'assets/includes/faveicon.php';
-   ?>
-    <!--Bootstrap Core CSS -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <!--Font-Awesome Core CSS -->
-    <link rel="stylesheet" href="assets/css/all.min.css">
-    <!--General styles -->
-    <link rel="stylesheet" href="assets/css/nycss.css">
-    <!--Google fonts -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Arimo:wght@400;500&family=Raleway:wght@300&family=Montserrat&display=swap" rel="stylesheet">
-    <!-- Favicon
+  require_once 'assets/includes/faveicon.php';
+  ?>
+  <!--Bootstrap Core CSS -->
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <!--Font-Awesome Core CSS -->
+  <link rel="stylesheet" href="assets/css/all.min.css">
+  <!--General styles -->
+  <link rel="stylesheet" href="assets/css/nycss.css">
+  <!--Google fonts -->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Arimo:wght@400;500&family=Raleway:wght@300&family=Montserrat&display=swap" rel="stylesheet">
+  <!-- Favicon
   <link rel="shortcut icon" href="assets/images/favicobanan.ico" type="image/x-icon">
  -->
 </head>
@@ -46,7 +46,7 @@
 
     <?php
     require_once 'assets/includes/fixednav-ommig.php';
-   ?>
+    ?>
 
 
 
@@ -71,18 +71,20 @@
           <h1>
             Lite om mig
           </h1>
+          <h4>
+            Bachelor of Science in Informatics with specialization in Digital design
+          </h4>
           <P>
-            Lucas Schuber, 29 år gammal. Jag är en ambitiös och kreativ person med en vi-löser-det-attityd som aldrig ryggar för nya utmaningar.  Är en lagspelare sedan barnsben, självorganiserad i mina uppgifter och mycket noggran med mina uppdrag. Sedan länge har jag arbetat kreativt med film och foto, målat och illustrerat. I min utbildning har det varit fokus på att utveckla mobila tjänster, responsiva webbplatser och grafiska kommunikationslösningar med stor vikt på interaktiondesign och användarvänlighet.
-
-            <br><br>
-            <strong>De här programmen behärskar jag:</strong>
+            Lucas Schuber, 29 år gammal, studerar datateknik och har en kandidat i informatik. Jag är en ambitiös, tekniskt och kreativ person med en vi-löser-det-attityd som aldrig ryggar för nya utmaningar. Jag är en lagspelare sedan barnsben, självorganiserad i mina uppgifter och mycket noggran med mina uppdrag. Sedan länge har jag arbetat kreativt med webbdesign och film och foto. I min utbildning i informatik har det varit fokus på att utveckla mobila tjänster, responsiva webbplatser och grafiska kommunikationslösningar med stor vikt på interaktiondesign och användarvänlighet. 
+            <!-- <br><br>
+            <strong>De här programmen behärskar jag:</strong> -->
           </P>
         </div>
 
         <div class="row container kompetens-box" style="margin:auto;">
           <div class="col-lg-3 col-md-6 pt-1" id="kompetens">
             <h4>
-              UXIUI-DESIGN
+              UX / UI-DESIGN
             </h4>
             <h5>
               Figma <br><br> Invision <br><br> Protopie <br><br> Adobe XD
@@ -93,26 +95,28 @@
               GRAFISK DESIGN
             </h4>
             <h5>
-              Adobe illustrator <br><br>Adobe photoshop <br><br>Adobe indesign <br><br> Sketch
+              Adobe illustrator <br><br>Adobe photoshop <br><br>Adobe indesign <br><br> Adobe Dimension<br><br> Sketch
             </h5>
           </div>
           <div class="col-lg-3 col-md-6 pt-1" id="kompetens">
             <h4>
-              FILMREDIGERING
+              FILM / FOTO
             </h4>
             <h5>
-              Adobe premiere pro <br><br> Final cut pro <br><br>Adobe after effects
+              Adobe premiere pro <br><br> Final cut pro <br><br>Adobe after effects <br><br>Lightroom <br><br> Photoshop
             </h5>
           </div>
           <div class="col-lg-3 col-md-6 pt-1" id="kompetens">
             <h4>
-              WEBBDESIGN
+              WEBBUTVECKLING
             </h4>
             <h5>
-              HTML / CSS / Bootstrap
-              <br><br> Grundläggande Javascript
-              <br><br> Grundläggande PHP &amp; MYSQL
-              <br><br> Wordpress
+              Visual Studio Code / Dreamweaver
+              <br><br> HTML / CSS / SASS / Bootstrap
+              <br><br> Javascript
+              <br><br> PHP &amp; MYSQL
+              <br><br> Wordpress och CMS-system
+              <br><br> NODEjs, GULP &amp; NPM-paket
             </h5>
           </div>
         </div>
@@ -204,7 +208,7 @@
 
     <?php
     require_once 'assets/includes/footer.php';
-   ?>
+    ?>
 
   </footer>
 

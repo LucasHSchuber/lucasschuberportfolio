@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Vegilante</title>
+  <title>Färdtjänst</title>
   <!-- faveicon -->
   <?php
   require_once 'assets/includes/faveicon.php';
@@ -63,7 +63,7 @@
         require_once 'assets/includes/backbtn.php';
         ?>
         <h1>
-          VEGILANTE
+          BROMMA FÄRDTJÄNST
         </h1>
         <h5>
           UX/UI design / Webbdesign / Webbutveckling
@@ -78,7 +78,7 @@
             <strong>OM</strong>
           </h4>
           <P>
-            Uppgiften gick ut på att skapa en demo-hemsida av en webbbutik som sålde några utvalda veganska produkter. Den ska ha en shop och användaren ska kunna logga in med e-post och lösenord för att ändra sina uppgifter.
+            Uppgiften gick ut på att skapa en demo-hemsida där användaren kunde boka, ändra och radera en färdtjänst.
           </P>
         </div>
         <div class="col-md-6">
@@ -86,7 +86,7 @@
             <strong>MÅL</strong>
           </h4>
           <P>
-            Att lära sig koda en webbbutik med en databas med språken PHP och MYSQL. Hemsidan ska dessutom vara responsiv och vara användbar i minst en mindre enhet som mobiltelefon eller läsplatta.
+            Uppgiften hade fokus på webbanvändbarhet där webbriktlinjer togs i beaktning. Hemsidan kodas i HTML/CSS/JAVASCRIPT och är responsiv.
           </P>
         </div>
       </div>
@@ -103,49 +103,24 @@
 
       <div class="order row py-5 container-fluid">
         <div class="order-item2 card container col-md-6 portfolio-card" style="width: 20rem;">
-          <img src="assets/images/wire.png" class="card-img-top" alt="...">
-          <img src="assets/images/wireall.JPG" class="card-img-top py-3" alt="...">
-          <img src="assets/images/wirestart.JPG" class="card-img-top pb-3" alt="...">
-          <img src="assets/images/wirein.JPG" class="card-img-top" alt="...">
+          <img src="assets/images/fardtjanstwebb.png" class="card-img-top" alt="...">
+          <img src="assets/images/fardtjanstmobil.png" class="card-img-top py-3" alt="...">
         </div>
         <div class="order-item1 container col-md-5 content align-self-center">
           <h3>
-            Skisser och wireframes
+            Prototyp i Figma
           </h3>
           <p>
-            Efter att ha skissat en layout gjorde jag wireframes av hemsidan för webben i dator.
+            Prototyp för mobil och dator
           </p>
-        </div>
-      </div>
+          <div class="videolink">
+            <p>
+              Klicka på knapparna för att se prototypen:
+            </p>
+            <a class="btn btn-lg" href="https://www.figma.com/file/iY1RSRX9bB1Px3UZ1WKJgW/F%C3%A4rdtj%C3%A4nst-webb?type=design&node-id=0%3A1&t=BqzmOCT9tJIbDHxA-1" role="button" rel="noreferrer noopener" target="_blank">Dator</a>
+            <a class="btn btn-lg" href="https://www.figma.com/file/tUBaIfR63xtAhIRKAYfsCe/F%C3%A4rdtj%C3%A4nst-iphone?type=design&node-id=0%3A1&t=SpKjoNxWc0uSfYTy-1" role="button" rel="noreferrer noopener" target="_blank">Mobil</a>
 
-      <div class="row py-5 container-fluid">
-        <div class="container col-md-5 content">
-          <h3>
-            Grafisk profil
-          </h3>
-          <p>
-            logotyp, symboler, typsnitt, färger.
-          </p>
-        </div>
-        <div class="card container col-md-6 portfolio-card" style="width: 20rem;">
-          <img src="assets/images/vagilantedesign.png" class="card-img-top" alt="...">
-        </div>
-      </div>
-
-
-      <div class="order row py-5 container-fluid">
-        <div class="order-item2 card container col-md-6 portfolio-card" style="width: 20rem;">
-          <img src="assets/images/kod.png" class="card-img-top" alt="...">
-        </div>
-        <div class="order-item1 container col-md-5 content">
-          <h3>
-            Kod
-          </h3>
-          <p>
-            Frontend - HTML, CSS, Bootstrap, Javascript. <br> Backend - PHP och MySql.
-          </p>
-          <P>
-          </P>
+          </div>
         </div>
       </div>
 
@@ -154,22 +129,15 @@
           <h3>
             Webbsidan
           </h3>
-          <p>
-            Tre bilder på hur webbsidan i datorn slutade.
-            <br><br>
-          </p>
           <div class="videolink">
             <p>
-              Se en video på webbutikens utseende när användaren <i>inte</i> är inloggad här:
+              Klicka på knappen för att komma till hemsidan:
             </p>
-            <a class="btn btn-lg" href="https://youtu.be/oG7wJHEINRc" role="button" rel="noreferrer noopener" target="_blank">Youtube</a>
+            <a class="btn btn-lg" href="http://studenter.miun.se/~luha2200/WEBBANV%c3%84NDBARHET/fardtjanst_projekt_kod/index.html" role="button" rel="noreferrer noopener" target="_blank">Hemsidan</a>
           </div>
         </div>
-
         <div class="card container col-md-6 portfolio-card" style="width: 20rem;">
-          <img src="assets/images/site1.png" class="card-img-top" alt="...">
-          <img src="assets/images/site2.png" class="card-img-top py-3" alt="...">
-          <img src="assets/images/site3.png" class="card-img-top" alt="...">
+          <img src="assets/images/fardtjanst.png" class="card-img-top" alt="...">
         </div>
       </div>
 

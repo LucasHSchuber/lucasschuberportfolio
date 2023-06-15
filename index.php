@@ -58,7 +58,7 @@
 
     <div class="container-fluid box2">
       <h4>
-        DIGITAL DESIGNER
+        UX & UI DESIGNER / WEB DEVELOPER / DIGITAL DESIGNER
       </h4>
     </div>
 
