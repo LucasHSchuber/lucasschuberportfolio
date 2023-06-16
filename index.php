@@ -8,19 +8,19 @@
   <title>Hem</title>
   <!-- faveicon -->
   <?php
-    require_once 'assets/includes/faveicon.php';
-   ?>
-    <!--Bootstrap Core CSS -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <!--Font-Awesome Core CSS -->
-    <link rel="stylesheet" href="assets/css/all.min.css">
-    <!--General styles -->
-    <link rel="stylesheet" href="assets/css/nycss.css">
-    <!--Google fonts -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300&family=Playfair+Display&family=family=Frank+Ruhl+Libre:wght@300&Rajdhani:wght@300&family=Lexend+Mega&display=swap" rel="stylesheet">
+  require_once 'assets/includes/faveicon.php';
+  ?>
+  <!--Bootstrap Core CSS -->
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <!--Font-Awesome Core CSS -->
+  <link rel="stylesheet" href="assets/css/all.min.css">
+  <!--General styles -->
+  <link rel="stylesheet" href="assets/css/nycss.css">
+  <!--Google fonts -->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300&family=Playfair+Display&family=family=Frank+Ruhl+Libre:wght@300&Rajdhani:wght@300&family=Lexend+Mega&display=swap" rel="stylesheet">
 
-    <!-- Favicon
+  <!-- Favicon
   <link rel="shortcut icon" href="assets/images/favicobanan.ico" type="image/x-icon">
  -->
 </head>
@@ -45,7 +45,7 @@
 
     <?php
     require_once 'assets/includes/fixednav-hem.php';
-   ?>
+    ?>
 
   </header>
   <main class="wrapper-index">
@@ -79,16 +79,16 @@
         </p>
       </div>
       <div class="col-lg-4 col-sm-3 align-self-center">
-        <a role="button" class="btn btn-lg mb-5" href="portfolio.php" aria-pressed="true" >Portfolio</a>
+        <a role="button" class="btn btn-lg mb-5" href="portfolio.php" aria-pressed="true">Portfolio</a>
       </div>
     </div>
 
     <!--- img ---->
 
-    
+
     <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12" style="margin:auto;">
-        <img class="testux" src="assets/images/uxdesigner5.png"></img>
-    </div>   
+      <img class="testux" src="assets/images/uxdesigner5.png"></img>
+    </div>
 
 
   </main>
@@ -96,7 +96,7 @@
 
     <?php
     require_once 'assets/includes/footer.php';
-   ?>
+    ?>
 
   </footer>
 

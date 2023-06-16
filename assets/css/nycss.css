@@ -199,6 +199,11 @@ main {
   font-family: 'Darker Grotesque', sans-serif;
   color: #35363A;
 }
+.index-portfolio p {
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 18px;
+  color: #35363A;
+}
 
 .insta-box {
   margin: 10em 0em 2em 0em;
