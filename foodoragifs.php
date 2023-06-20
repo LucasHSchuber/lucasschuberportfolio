@@ -70,13 +70,13 @@
                 <div class="card col-sm-6">
                     <img class="card-img-top" id="minkonsthover" src="assets/images/gifs/gif1.gif" alt="Card image cap" style="border:3px solid black;">
                     <div class="card-body">
-                        <h5 class="card-title">Affisch till en kampanj som presenterades på den årliga leverantörsdagen</h5>
+                        <h5 class="card-title">GIF till hemsidan under juldagarna</h5>
                     </div>
                 </div>
                 <div class="card col-sm-6">
                     <img class="card-img-top" id="minkonsthover" src="assets/images/gifs/gif2.gif" alt="Card image cap" style="border:3px solid black;">
                     <div class="card-body">
-                        <h5 class="card-title">Affisch på erbjudande</h5>
+                        <h5 class="card-title">GIF till en leverantörsinbjudan som skickades ut via mejl</h5>
                     </div>
                 </div>
             </div>
@@ -85,13 +85,13 @@
                 <div class="card col-sm-6">
                     <img class="card-img-top" id="minkonsthover" src="assets/images/gifs/gif3.gif" alt="Card image cap" style="border:3px solid black;">
                     <div class="card-body">
-                        <h5 class="card-title">Affisch till OOH</h5>
+                        <h5 class="card-title">GIF till hemsidan vid tekniska problem</h5>
                     </div>
                 </div>
                 <div class="card col-sm-6">
                     <img class="card-img-top" id="minkonsthover" src="assets/images/gifs/gif4.gif" alt="Card image cap" style="border:3px solid black;">
                     <div class="card-body">
-                        <h5 class="card-title">Affisch till en kampanj som presenterades på den årliga leverantörsdagen</h5>
+                        <h5 class="card-title">GIF till hemsidan vid längre leveranstider</h5>
                     </div>
                 </div>
             </div>
