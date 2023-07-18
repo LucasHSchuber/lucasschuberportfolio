@@ -79,7 +79,7 @@
             Content creator
           </h5>
           <P>
-            Arbetade som content creator på Foodora market där jag skapade rörligt och stilla material både internt och extern.
+            Arbetade som content creator på Foodora market. Se lite mer av mitt arbete på Foodora här! 
           </P>
           <a class="btn btn-lg mt-2" href="foodora.php" role="button">Se projekt</a>
         </div>
@@ -100,7 +100,7 @@
             UX/UI design / Webbdesign / Webbutveckling
           </h5>
           <P>
-            En skoluppgift som gick ut på att skapa en liten webbplats där man kan boka och läsa mer om färdtjänst.
+            En skoluppgift som gick ut på att skapa en webbplats där man kan boka och läsa mer om färdtjänst.  Hemsidan är kodad i HTML, CSS, JavaScript.
           </P>
           <a class="btn btn-lg mt-2" href="fardtjanst.php" role="button">Se arbetet</a>
         </div>
@@ -115,7 +115,7 @@
             UX/UI design / Webbdesign / Webbutveckling
           </h5>
           <P>
-            En skoluppgift där en blog skulle skapas. Jag valde att göra en filmblogg där man kan skapa ett konto och lägga upp filmtips.
+            En skoluppgift som gick ut på att skapa en blog. Jag valde att göra en 'filmblogg' där man kan skapa ett konto och lägga upp filmtips. Hemsidan är kodad i HTML, CSS, PHP, SQL.
           </P>
           <a class="btn btn-lg mt-2" href="flim.php" role="button">Se arbetet</a>
         </div>
@@ -137,7 +137,7 @@
             UX/UI design / Webbdesign / Webbutveckling
           </h5>
           <P>
-            En skoluppgift där en demo-webbshop med eget grafiskt material. Jag valde att göra en second-hand shop för alpina produkter med bilder tagna uppe i Arådalen, Jämtland.
+            En skoluppgift där en demo-webbshop som skulle bestå av eget grafiskt material. Jag valde att göra en second hand-shop för alpina produkter med bilder tagna uppe i Arådalen, Jämtland. Hemsidan är kodad i HTML, CSS, JavaScript.
           </P>
           <a class="btn btn-lg mt-2" href="nordfjall.php" role="button">Se arbetet</a>
         </div>
@@ -173,7 +173,7 @@
             UX/UI design / grafisk design / produkt design
           </h5>
           <P>
-            Ett nyuppstartat företag som i framtiden ska producera blantbaserat snus.
+            Ett nyuppstartat företag som i framtiden ska producera plantbaserat snus.
           </P>
           <a class="btn btn-lg mt-2" href="cnus.php" role="button">Se arbetet</a>
         </div>

@@ -58,7 +58,8 @@
 
     <div class="container-fluid box2">
       <h4>
-        UX & UI DESIGNER / WEB DEVELOPER / DIGITAL DESIGNER
+        DIGITAL DESIGNER
+        <!-- / FULL STACK DEVELOPER -->
       </h4>
     </div>
 
@@ -86,9 +87,9 @@
     <!--- img ---->
 
 
-    <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12" style="margin:auto;">
+    <!-- <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12" style="margin:auto;">
       <img class="testux" src="assets/images/uxdesigner5.png"></img>
-    </div>
+    </div> -->
 
 
   </main>

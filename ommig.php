@@ -75,7 +75,7 @@
             Bachelor of Science in Informatics with specialization in Digital design
           </h4>
           <P>
-            Lucas Schuber, 29 år gammal, studerar datateknik och har en kandidat i informatik. Jag är en ambitiös, tekniskt och kreativ person med en vi-löser-det-attityd som aldrig ryggar för nya utmaningar. Jag är en lagspelare sedan barnsben, självorganiserad i mina uppgifter och mycket noggran med mina uppdrag. Sedan länge har jag arbetat kreativt med webbdesign och film och foto. I min utbildning i informatik har det varit fokus på att utveckla mobila tjänster, responsiva webbplatser och grafiska kommunikationslösningar med stor vikt på interaktiondesign och användarvänlighet. 
+            Lucas Schuber, 29 år gammal, studerar datateknik och har en kandidat i informatik. Jag är en ambitiös, tekniskt och kreativ person med en vi-löser-det-attityd som aldrig ryggar för nya utmaningar. Jag är en lagspelare sedan barnsben, självorganiserad i mina uppgifter och mycket noggrann med mina uppdrag. Sedan länge har jag arbetat kreativt med webbdesign, film och foto. I min utbildning i informatik har det varit fokus på att utveckla mobila tjänster, responsiva webbplatser och grafiska kommunikationslösningar med stor vikt på interaktiondesign och användarvänlighet.
             <!-- <br><br>
             <strong>De här programmen behärskar jag:</strong> -->
           </P>
