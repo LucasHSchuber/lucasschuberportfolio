@@ -28,18 +28,18 @@
 <div class="row py-5 container-fluid projekt">
   <div class="order-item2 container col-md-6 text1">
     <h1>
-      FLIM
+      EGG BENEFIT
     </h1>
     <h5>
       UX/UI design / Webbdesign / Webbutveckling
     </h5>
     <P>
-      En skoluppgift som gick ut på att skapa en blog. Jag valde att göra en 'filmblogg' där man kan skapa ett konto och lägga upp filmtips. Hemsidan är kodad i HTML, CSS, PHP, SQL.
+      I kursen Webbutveckling III skulle vi skapa en klientsida, en webbtjänst och ett admin-gränssnitt där personal ska kunna hantera menyn och bokningar. Allt är programmerat i en utvecklingsmiljö med GULP och NodeJs med NPM-paket, där jag har utvecklat REST-api’er med datahantering av CRUD-operationer. Hemsidorna är kodade i HTML, CSS, JavaScript, PHP, SQL.
     </P>
-    <a class="btn btn-lg mt-2" href="flim.php" role="button">Se arbetet</a>
+    <a class="btn btn-lg mt-2" href="eggbenefit.php" role="button">Se arbetet</a>
   </div>
   <div class="order-item1 card container col-md-6 portfolio-card" style="width: 20rem;">
-    <img src="assets/images/flimindex.jpg" class="card-img-top" alt="...">
+    <img src="assets/images/egg_klient.jpg" class="card-img-top" alt="...">
   </div>
 </div>
 
@@ -62,20 +62,20 @@
 </div>
 
 <div class="row py-5 container-fluid projekt">
-  <div class="order-item2  container col-md-7 text1">
+  <div class="order-item2 container col-md-6 text1">
     <h1>
-      VEGILANTE
+      FLIM
     </h1>
     <h5>
       UX/UI design / Webbdesign / Webbutveckling
     </h5>
     <P>
-      Skapade en demo-webbsida till en fiktiv webbshop som säljer några utvalda veganska produkter.
+      En skoluppgift som gick ut på att skapa en blog. Jag valde att göra en 'filmblogg' där man kan skapa ett konto och lägga upp filmtips. Hemsidan är kodad i HTML, CSS, PHP, SQL.
     </P>
-    <a class="btn btn-lg mt-2" href="vegilante.php" role="button">Se arbetet</a>
+    <a class="btn btn-lg mt-2" href="flim.php" role="button">Se arbetet</a>
   </div>
-  <div class="order-item1 card container col-md-4 portfolio-card" style="width: 20rem;">
-    <img src="assets/images/kod2.png" class="card-img-top" alt="...">
+  <div class="order-item1 card container col-md-6 portfolio-card" style="width: 20rem;">
+    <img src="assets/images/flimindex.jpg" class="card-img-top" alt="...">
   </div>
 </div>
 
@@ -112,6 +112,24 @@
   </div>
   <div class="order-item1 card container col-md-4 portfolio-card" style="width: 20rem;">
     <img src="assets/images/start.png" class="card-img-top" alt="...">
+  </div>
+</div>
+
+<div class="row py-5 container-fluid projekt">
+<div class="order-item1 card container col-md-4 portfolio-card" style="width: 20rem;">
+    <img src="assets/images/kod2.png" class="card-img-top" alt="...">
+  </div>
+  <div class="order-item2  container col-md-7 text1">
+    <h1>
+      VEGILANTE
+    </h1>
+    <h5>
+      UX/UI design / Webbdesign / Webbutveckling
+    </h5>
+    <P>
+      Skapade en demo-webbsida till en fiktiv webbshop som säljer några utvalda veganska produkter.
+    </P>
+    <a class="btn btn-lg mt-2" href="vegilante.php" role="button">Se arbetet</a>
   </div>
 </div>
 

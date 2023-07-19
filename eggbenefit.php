@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Flim</title>
+  <title>Egg benefit</title>
   <!-- faveicon -->
   <?php
   require_once 'assets/includes/faveicon.php';
@@ -63,7 +63,7 @@
         require_once 'assets/includes/backbtn.php';
         ?>
         <h1>
-        FLIM
+          EGG BENEFIT
         </h1>
         <h5>
           UX/UI design / Webbdesign / Webbutveckling
@@ -78,7 +78,7 @@
             <strong>OM</strong>
           </h4>
           <P>
-            Uppgiften gick ut på att skapa en filmblogg där användaren kunde skapa ett konto för att logga in och skapa filmtips.
+            Hemsidan är en restaurang med nisch på ägg. Uppgiften är programmerad med HTML, CSS, JavaScript samt PHP och MYSQL med uppkoppling mot en databas API'er.
           </P>
         </div>
         <div class="col-md-6">
@@ -86,7 +86,7 @@
             <strong>MÅL</strong>
           </h4>
           <P>
-            Uppgiften är programmerad med HTML och CSS samt PHP och MYSQL med uppkoppling mot en databas. 
+            En skoluppgift som gick ut på att skapa en klientsida, en webbtjänst och ett admin gränssnitt där personal kan hantera menyn och bokningar.
           </P>
         </div>
       </div>
@@ -103,7 +103,7 @@
 
       <div class="order row py-5 container-fluid">
         <div class="order-item2 card container col-md-6 portfolio-card" style="width: 20rem;">
-          <img src="assets/images/flimfigma.jpg" class="card-img-top" alt="...">
+          <img src="assets/images/egg_figma.jpg" class="card-img-top" alt="...">
         </div>
         <div class="order-item1 container col-md-5 content align-self-center">
           <h3>
@@ -116,7 +116,7 @@
             <p>
               Klicka på knappen för att se prototypen:
             </p>
-            <a class="btn btn-lg" href="https://www.figma.com/file/ma8y3jmvltye1ZcScqfOE4/Film-blog?type=design&node-id=0%3A1&t=n1PbLgIJ6HyBhZPP-1" role="button" rel="noreferrer noopener" target="_blank">Dator</a>
+            <a class="btn btn-lg" href="https://www.figma.com/file/UPRxE6HmajyAW64899KKL4/Restaurang---w_III?type=design&node-id=0%3A1&mode=design&t=jWfky2rpQnD0aRKf-1" role="button" rel="noreferrer noopener" target="_blank">Figma</a>
           </div>
         </div>
       </div>
@@ -124,21 +124,29 @@
       <div class="row py-5 container-fluid">
         <div class="container col-md-5 content">
           <h3>
-            Webbsidan
+            Klientsidan
           </h3>
           <div class="videolink">
             <p>
-              Klicka på knappen för att komma till hemsidan:
+              Klicka på knappen för att komma till Klientsidan:
             </p>
-            <a class="btn btn-lg" href="http://studenter.miun.se/~luha2200/writeable/Webbutveckling_II/Flim/index.php" role="button" rel="noreferrer noopener" target="_blank">Hemsidan</a>
+            <a class="btn btn-lg" href="http://studenter.miun.se/~luha2200/writeable/Webbutveckling_III/Egg%20benefit/klient/pub/index.html" role="button" rel="noreferrer noopener" target="_blank">Klientsidan</a>
+          </div>
+          <h3 class="mt-5">
+            Adminsidan
+          </h3>
+          <div class="videolink">
+            <p>
+              Klicka på knappen för att komma till adminsidan. <br>
+              Användarnamn: Admin <br>
+              Lösenord: password
+            </p>
+            <a class="btn btn-lg" href="http://studenter.miun.se/~luha2200/writeable/Webbutveckling_III/Egg%20benefit/admin/pub/login.html" role="button" rel="noreferrer noopener" target="_blank">Adminsidan</a>
           </div>
         </div>
         <div class="card container col-md-6 portfolio-card" style="width: 20rem;">
-          <img src="assets/images/flimindex.jpg" class="card-img-top" style="margin-bottom:0.5em;" alt="...">
-          <img src="assets/images/flimfilm.jpg" class="card-img-top" style="margin-bottom:0.5em;"  alt="...">
-          <img src="assets/images/flimser.jpg" class="card-img-top" style="margin-bottom:0.5em;"  alt="...">
-          <img src="assets/images/flimdoc.jpg" class="card-img-top" style="margin-bottom:0.5em;" alt="...">
-
+          <img src="assets/images/egg_klient.jpg" class="card-img-top" style="margin-bottom:0.5em;" alt="...">
+          <img src="assets/images/egg_admin.jpg" class="card-img-top" style="margin-bottom:0.5em;" alt="...">
         </div>
       </div>
 
