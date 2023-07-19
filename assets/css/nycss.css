@@ -199,6 +199,7 @@ main {
   font-family: 'Darker Grotesque', sans-serif;
   color: #35363A;
 }
+
 .index-portfolio p {
   font-family: 'Frank Ruhl Libre', serif;
   font-size: 18px;
@@ -218,6 +219,13 @@ main {
 
 .card {
   background-color: #ffffff;
+}
+
+.test {
+  border-radius: 50%;
+  width: 25em;
+  height: 25em;
+  object-fit: contain;
 }
 
 .card {

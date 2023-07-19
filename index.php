@@ -58,15 +58,17 @@
 
     <div class="container-fluid box2">
       <h4>
-        DIGITAL DESIGNER
+        DIGITAL DESIGNER & FULLSTACK DEVELOPER
         <!-- / FULL STACK DEVELOPER -->
       </h4>
     </div>
 
-
-    <div class="card">
-      <img class="card-img-top lunchatop" src="assets/images/test5.png" alt="lunchatopaskyscraper" style="margin:auto;">
+    <div class="d-flex justify-content-center ">
+      <img class="align-self-center test "  src="assets/images/lucpic.png" alt="profile picture">
     </div>
+    <!-- <div class="card">
+      <img class="card-img-top lunchatop" src="assets/images/test5.png" alt="lunchatopaskyscraper" style="margin:auto;">
+    </div> -->
 
     <!--- insta ---->
 
@@ -76,7 +78,7 @@
           Vill du se lite av det jag har skapat?
         </h1>
         <p class="pb-2">
-          Du hittar alla mina projekt i min portfolio
+          Du hittar alla mina projekt i portfolion.
         </p>
       </div>
       <div class="col-lg-4 col-sm-3 align-self-center">
