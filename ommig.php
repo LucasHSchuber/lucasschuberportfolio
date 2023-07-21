@@ -84,10 +84,24 @@
         <div class="row container kompetens-box" style="margin:auto;">
           <div class="col-lg-3 col-md-6 pt-1" id="kompetens">
             <h4>
+              WEBBUTVECKLING
+            </h4>
+            <h5>
+              VSC / Dreamweaver
+              <br><br> HTML / CSS / SASS / Bootstrap
+              <br><br> Javascript / TypeScript
+              <br><br> C#.Net
+              <br><br> PHP &amp; SQL
+              <br><br> Wordpress & CMM
+              <br><br> NODEjs, GULP &amp; NPM-paket
+            </h5>
+          </div>
+          <div class="col-lg-3 col-md-6 pt-1" id="kompetens">
+            <h4>
               UX / UI-DESIGN
             </h4>
             <h5>
-              Figma <br><br> Invision <br><br> Protopie <br><br> Adobe XD
+              Figma <br><br> Protopie <br><br> Adobe XD
             </h5>
           </div>
           <div class="col-lg-3 col-md-6 pt-1" id="kompetens">
@@ -95,7 +109,7 @@
               GRAFISK DESIGN
             </h4>
             <h5>
-              Adobe illustrator <br><br>Adobe photoshop <br><br>Adobe indesign <br><br> Adobe Dimension<br><br> Sketch
+              Adobe Illustrator <br><br>Adobe Photoshop <br><br>Adobe Indesign <br><br> Adobe Dimension
             </h5>
           </div>
           <div class="col-lg-3 col-md-6 pt-1" id="kompetens">
@@ -103,20 +117,7 @@
               FILM / FOTO
             </h4>
             <h5>
-              Adobe premiere pro <br><br> Final cut pro <br><br>Adobe after effects <br><br>Lightroom <br><br> Photoshop
-            </h5>
-          </div>
-          <div class="col-lg-3 col-md-6 pt-1" id="kompetens">
-            <h4>
-              WEBBUTVECKLING
-            </h4>
-            <h5>
-              Visual Studio Code / Dreamweaver
-              <br><br> HTML / CSS / SASS / Bootstrap
-              <br><br> Javascript
-              <br><br> PHP &amp; MYSQL
-              <br><br> Wordpress och CMS-system
-              <br><br> NODEjs, GULP &amp; NPM-paket
+              Adobe premiere pro <br><br> Final cut pro <br><br>Adobe after effects <br><br>Lightroom
             </h5>
           </div>
         </div>
