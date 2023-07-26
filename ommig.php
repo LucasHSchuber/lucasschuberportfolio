@@ -69,13 +69,15 @@
         </div>
         <div class="container col-lg-8 ommig row" style="margin:auto;">
           <h1>
-            Lite om mig
+            Lucas H. Schuber, 29
           </h1>
-          <h4>
+          <!-- <h4>
             Bachelor of Science in Informatics with specialization in Digital design
-          </h4>
+          </h4> -->
           <P>
-            Lucas Schuber, 29 år gammal, studerar datateknik och har en kandidat i informatik. Jag är en ambitiös, tekniskt och kreativ person med en vi-löser-det-attityd som aldrig ryggar för nya utmaningar. Jag är en lagspelare sedan barnsben, självorganiserad i mina uppgifter och mycket noggrann med mina uppdrag. Sedan länge har jag arbetat kreativt med webbdesign, film och foto. I min utbildning i informatik har det varit fokus på att utveckla mobila tjänster, responsiva webbplatser och grafiska kommunikationslösningar med stor vikt på interaktiondesign och användarvänlighet.
+           Hej! Jag är en organiserad, noggrann och ambitiös person med en vi-löser-det-attityd som ständigt drivs av utveckling och framsteg. Sedan länge har jag arbetat kreativt i Adobe-sviten med allt från stora till små projekt inom grafisk design till större projekt inom webbutveckling. Med en kandidatexamen i informatik med inrikting digital design, över 100 högskolepoäng inom matematik och programmering, samt flera års erfarnhetet av grafiskt design och fotografi både amatörmässigt och professionellt, besitter jag en bred kunskapsbas och erfarenheter inom digital design och webbutveckling. 
+            <!-- I min utbildning i informatik låg ett stort fokus på att utveckla mobila tjänster, responsiva webbplatser och grafiska kommunikationslösningar med stor vikt på interaktiondesign och användarvänlighet, vilket har utvecklat ett användarcentrerat fokus i mitt arbetssätt. -->
+            <!-- Med en bred kunskapsbas och ett användarcentrerat arbetssätt  -->
             <!-- <br><br>
             <strong>De här programmen behärskar jag:</strong> -->
           </P>
@@ -87,21 +89,21 @@
               WEBBUTVECKLING
             </h4>
             <h5>
-              VSC / Dreamweaver
-              <br><br> HTML / CSS / SASS / Bootstrap
-              <br><br> Javascript / TypeScript
-              <br><br> C#.Net
-              <br><br> PHP &amp; SQL
-              <br><br> Wordpress & CMM
-              <br><br> NODEjs, GULP &amp; NPM-paket
+            &#x2022 VSC / Dreamweaver
+              <br><br> &#x2022 HTML / CSS / SASS / Bootstrap
+              <br><br> &#x2022 Javascript / TypeScript
+              <br><br> &#x2022 C#.Net
+              <br><br> &#x2022 PHP &amp; SQL
+              <br><br> &#x2022 Wordpress & CMM
+              <br><br> &#x2022 NODEjs, GULP &amp; NPM-paket
             </h5>
           </div>
           <div class="col-lg-3 col-md-6 pt-1" id="kompetens">
             <h4>
-              UX / UI-DESIGN
+            &#x2022 UX / UI-DESIGN
             </h4>
             <h5>
-              Figma <br><br> Protopie <br><br> Adobe XD
+              F&#x2022 igma <br><br> &#x2022 Protopie <br><br> &#x2022 Adobe XD
             </h5>
           </div>
           <div class="col-lg-3 col-md-6 pt-1" id="kompetens">
@@ -109,7 +111,7 @@
               GRAFISK DESIGN
             </h4>
             <h5>
-              Adobe Illustrator <br><br>Adobe Photoshop <br><br>Adobe Indesign <br><br> Adobe Dimension
+            &#x2022 Adobe Illustrator <br><br>&#x2022 Adobe Photoshop <br><br>&#x2022 Adobe Indesign <br><br> &#x2022 Adobe Dimension
             </h5>
           </div>
           <div class="col-lg-3 col-md-6 pt-1" id="kompetens">
@@ -117,7 +119,7 @@
               FILM / FOTO
             </h4>
             <h5>
-              Adobe premiere pro <br><br> Final cut pro <br><br>Adobe after effects <br><br>Lightroom
+            &#x2022 Adobe premiere pro <br><br>&#x2022  Final cut pro <br><br>&#x2022 Adobe after effects <br><br>&#x2022 Lightroom
             </h5>
           </div>
         </div>
