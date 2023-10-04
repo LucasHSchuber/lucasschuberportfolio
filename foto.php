@@ -111,13 +111,13 @@
 
       <div class="card-group row">
         <div class="card col-sm-6">
-          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/porträtt1.jpg" alt="Card image cap" style="border:3px solid black;">
+          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/port1.jpg" alt="Card image cap" style="border:3px solid black;">
           <div class="card-body">
             <h5 class="card-title">Porträtt sportfoto</h5>
           </div>
         </div>
         <div class="card col-sm-6">
-          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/porträtt2.jpg" alt="Card image cap" style="border:3px solid black;">
+          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/port2.jpg" alt="Card image cap" style="border:3px solid black;">
           <div class="card-body">
             <h5 class="card-title">Porträtt sportfoto</h5>
           </div>
@@ -126,28 +126,13 @@
 
       <div class="card-group row">
         <div class="card col-sm-6">
-          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/porträtt3.jpg" alt="Card image cap" style="border:3px solid black;">
+          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/port3.jpg" alt="Card image cap" style="border:3px solid black;">
           <div class="card-body">
             <h5 class="card-title">Porträtt</h5>
           </div>
         </div>
         <div class="card col-sm-6">
-          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/porträtt6.jpg" alt="Card image cap" style="border:3px solid black;">
-          <div class="card-body">
-            <h5 class="card-title">Porträtt</h5>
-          </div>
-        </div>
-      </div>
-
-      <div class="card-group row">
-        <div class="card col-sm-6">
-          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/porträtt7.jpg" alt="Card image cap" style="border:3px solid black;">
-          <div class="card-body">
-            <h5 class="card-title">Porträtt</h5>
-          </div>
-        </div>
-        <div class="card col-sm-6">
-          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/porträtt5.jpg" alt="Card image cap" style="border:3px solid black;">
+          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/port6.jpg" alt="Card image cap" style="border:3px solid black;">
           <div class="card-body">
             <h5 class="card-title">Porträtt</h5>
           </div>
@@ -156,13 +141,28 @@
 
       <div class="card-group row">
         <div class="card col-sm-6">
-          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/img_0522.jpg" alt="Card image cap" style="border:3px solid black;">
+          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/port7.jpg" alt="Card image cap" style="border:3px solid black;">
+          <div class="card-body">
+            <h5 class="card-title">Porträtt</h5>
+          </div>
+        </div>
+        <div class="card col-sm-6">
+          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/port5.jpg" alt="Card image cap" style="border:3px solid black;">
+          <div class="card-body">
+            <h5 class="card-title">Porträtt</h5>
+          </div>
+        </div>
+      </div>
+
+      <div class="card-group row">
+        <div class="card col-sm-6">
+          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/IMG_0522.jpg" alt="Card image cap" style="border:3px solid black;">
           <div class="card-body">
             <h5 class="card-title">Hundshögen, Jämtland</h5>
           </div>
         </div>
         <div class="card col-sm-6">
-          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/img_0526.jpg" alt="Card image cap" style="border:3px solid black;">
+          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/IMG_0526.jpg" alt="Card image cap" style="border:3px solid black;">
           <div class="card-body">
             <h5 class="card-title">Hundshögen, Jämtland</h5>
           </div>
@@ -171,13 +171,13 @@
 
       <div class="card-group row">
         <div class="card col-sm-6">
-          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/img_9626.jpg" alt="Card image cap" style="border:3px solid black;">
+          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/IMG_9626.jpg" alt="Card image cap" style="border:3px solid black;">
           <div class="card-body">
             <h5 class="card-title">Arådalen, Jämtland</h5>
           </div>
         </div>
         <div class="card col-sm-6">
-          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/img_9689.jpg" alt="Card image cap" style="border:3px solid black;">
+          <img class="card-img-top" id="minkonsthover" src="assets/images/foto/IMG_9689.jpg" alt="Card image cap" style="border:3px solid black;">
           <div class="card-body">
             <h5 class="card-title">Arådalen, Jämtland</h5>
           </div>
