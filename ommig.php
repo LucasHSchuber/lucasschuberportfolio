@@ -103,7 +103,7 @@
             &#x2022 UX / UI-DESIGN
             </h4>
             <h5>
-              F&#x2022 igma <br><br> &#x2022 Protopie <br><br> &#x2022 Adobe XD
+              &#x2022 Figma <br><br> &#x2022 Protopie <br><br> &#x2022 Adobe XD
             </h5>
           </div>
           <div class="col-lg-3 col-md-6 pt-1" id="kompetens">
